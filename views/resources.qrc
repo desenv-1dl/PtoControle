@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/export_pto_controle/views" >
+     <file>point.png</file> 
+     <file>progress.gif</file>
+  </qresource>
+</RCC>
